@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+PyPDF2
+sentence-transformers
+requests
+datasets
+torch
+pinecone[grpc]
+tqdm
